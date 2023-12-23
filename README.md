@@ -1,11 +1,17 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=450&lines=Hello+there%2C+I'm+Hasintha+Methmal+%F0%9F%91%8B;from+Sri+Lanka+%F0%9F%98%8A;Seeking+to+develop+captivating+open-source+projects+%F0%9F%91%80)](https://git.io/typing-svg)
 
+
+
+
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
+
+<p align="left"> <a href="https://twitter.com/hasinthame" target="blank"><img src="https://img.shields.io/twitter/follow/hasinthame?logo=twitter&style=for-the-badge" alt="hasinthame" /></a> </p>
 <img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/hasinthame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasinthame" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasintha methmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasintha methmal" height="30" width="40" /></a>
 <a href="https://instagram.com/hasintha methmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasintha methmal" height="30" width="40" /></a>
 </p>
